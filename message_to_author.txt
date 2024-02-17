@@ -1,0 +1,7 @@
+Dear Sir,
+
+I hope you are doing well. I am currently pursuing a Bachelors degree in Computer Engineering from India and I am right now in my final year so I am doing my final year project. I came across your research work of "Global stock market investment strategies based on financial network indicators using machine learning techniques" and I am looking forward to commence my research with this article as the base paper. However, I am having a doubt about a certain parameter being used. In the research, you have calculated a parameter called "Connectedness measure". I am able to understand the need of the parameter but I am not sure how this parameter is used in the ML techniques later in the research. How are you incorporating this parameter in the Machine Learning algorithms in order to improve results. 
+
+Kindly respond as in order to continue my research, I need to completely understand this.
+
+Regards
